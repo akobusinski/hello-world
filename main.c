@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+#include "int.h"
+#include "main.h"
+#include "bracket/left.h"
+#include "void.h"
+#include "bracket/right.h"
+#include "brace/left.h"
+#include "printf.h"
+#include "bracket/left.h"
+#include "strings/hello_world.h"
+#include "bracket/right.h"
+#include "semicolon.h"
+#include "return.h"
+#include "zero.h"
+#include "semicolon.h"
+#include "brace/right.h"
